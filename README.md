@@ -14,6 +14,10 @@ The dashboard supports:
 
 The goal is to support data-driven educational decision-making for school administrators and families. The dashboard is publicly deployed on Posit Connect Cloud.
 
+## Deployed Dashboard
+
+https://mkmetiuk-dsci-532-ia-mykhailo-kmetiuk.share.connect.posit.cloud
+
 ## Installation
 Install required packages in R:
 ```bash
