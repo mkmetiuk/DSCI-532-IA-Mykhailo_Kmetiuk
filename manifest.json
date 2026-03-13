@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.3.2",
+  "packages": [
+    {
+      "package": "shiny",
+      "repository": "https://cloud.r-project.org"
+    },
+    {
+      "package": "dplyr",
+      "repository": "https://cloud.r-project.org"
+    },
+    {
+      "package": "readr",
+      "repository": "https://cloud.r-project.org"
+    },
+    {
+      "package": "ggplot2",
+      "repository": "https://cloud.r-project.org"
+    }
+  ]
+}
